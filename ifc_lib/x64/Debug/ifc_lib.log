@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: __cdecl import::import(void)" (??0import@@QEAA@XZ) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: void __cdecl import::import_ifc_site(class std::shared_ptr<class IfcSite> &)" (?import_ifc_site@import@@QEAAXAEAV?$shared_ptr@VIfcSite@@@std@@@Z) referenced in function "public: void __cdecl <lambda_dcbf57d8fe4fdcaab266b27bc12344dd>::operator()(class std::shared_ptr<class IfcObjectDefinition> &)const " (??R<lambda_dcbf57d8fe4fdcaab266b27bc12344dd>@@QEBAXAEAV?$shared_ptr@VIfcObjectDefinition@@@std@@@Z)
+C:\Users\ena\Documents\ifc_lib\x64\Debug\ifc_lib.exe : fatal error LNK1120: 2 unresolved externals
